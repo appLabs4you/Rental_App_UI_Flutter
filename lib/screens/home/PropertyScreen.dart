@@ -212,7 +212,7 @@ class PropertyScreenState extends State<PropertyScreen> {
                     height: 50,
                     alignment: Alignment.centerLeft,
                     child: Text(
-                      "Select Country ",
+                      "Select Category ",
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 15,
