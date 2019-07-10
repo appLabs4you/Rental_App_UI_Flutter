@@ -16,3 +16,10 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 # Rental_App_UI_Flutter
+
+Screens
+
+<div align="center">
+    <img src="/screenshots/Screenshot_1.jpg" width="400px"</img> 
+   <img src="/screenshots/Screenshot_2.jpg" width="400px"</img> 
+</div>
