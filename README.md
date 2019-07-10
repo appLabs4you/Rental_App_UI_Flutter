@@ -20,8 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 Screens
 
 <div align="center">
-    <img src="/screenshots/Screenshot_1.png" width="400px"</img> 
-   <img src="/screenshots/Screenshot_2.png" width="400px"</img> 
-     <img src="/screenshots/Screenshot_3.png" width="400px"</img> 
-     <img src="/screenshots/Screenshot_4.png" width="400px"</img> 
+    <img src="/screenshots/Screenshot_1.png" width="300px"</img> 
+   <img src="/screenshots/Screenshot_2.png" width="300px"</img> 
+     <img src="/screenshots/Screenshot_3.png" width="300px"</img> 
+     <img src="/screenshots/Screenshot_4.png" width="300px"</img> 
 </div>
