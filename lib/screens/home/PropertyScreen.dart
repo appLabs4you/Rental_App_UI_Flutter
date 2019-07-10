@@ -238,6 +238,7 @@ class PropertyScreenState extends State<PropertyScreen> {
             ),
           );
         });
+    
   }
 
   void onTapped(String country) {
